@@ -58,8 +58,8 @@
                 "type": "omeka-addon-asset",
                 "version": "4.1.0",
                 "dist": {
-                    "type": "tar",
-                    "url": "https://github.com/Daniel-KM/Omeka-S-module-UniversalViewer/releases/download/3.6.10/uv-4.1.0.tar.gz",
+                    "type": "zip",
+                    "url": "https://github.com/Daniel-KM/Omeka-S-module-UniversalViewer/releases/download/3.6.10-4.1.0/UniversalViewer-3.6.10-4.1.0.zip",
                     "reference": "4.1.0"
                 }
             }
